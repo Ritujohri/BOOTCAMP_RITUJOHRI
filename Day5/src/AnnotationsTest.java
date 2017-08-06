@@ -12,4 +12,9 @@ public class AnnotationsTest {
     void display(){
         System.out.println("using timestamp annotations");
     }
+
+    public static void main(String[] args) {
+        AnnotationsTest annotationsTest=new AnnotationsTest();
+        annotationsTest.display();
+    }
 }
