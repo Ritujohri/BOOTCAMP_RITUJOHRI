@@ -1,0 +1,9 @@
+1) Create an annotation called Company having 2 fields
+   "name and location" of type String and this annotation should
+   not be seen at runtime.
+
+2) Create an annotation called Timestamp having 3 fields
+   "day - (Day enum type) , month - (Month enum type)
+   and year - (Year enum type - range 2015-2020)"
+   and this annotation should not be seen at bytecode.
+
