@@ -1,0 +1,18 @@
+ Create a class Vechicle which will have 3 methods
+and some properties along with 2 constructors
+
+properties :
+	vin - int
+	name - String
+	speed - int
+methods :
+
+1)  details -- will show details of the vehicle
+2)  drive -- will be implemented later
+3)  inspect --- will be implemented later
+
+Create 2 child classes Bike and Car which will extend Vehicle and
+will implement all the above given methods
+
+Create a main class called  Mechanic also which will be used to test
+all vehicles

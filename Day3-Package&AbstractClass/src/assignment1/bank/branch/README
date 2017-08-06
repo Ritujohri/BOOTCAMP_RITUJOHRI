@@ -1,0 +1,15 @@
+ Create a Java Application which will have minumum 4 classes
+ based banking domain;
+
+ Things to consider while writing code
+
+ Suggested class names
+  AccountService,CustomerService,Account,Customer,BranchService,
+  BankService,Main
+
+ 1) package to be created
+ 2) package names to be meaningful
+ 3) atleast 3 level of packaging
+ 4) class will inherit from different packages
+ 5) main class will be in a indenendent package called "client"
+    as last package name
