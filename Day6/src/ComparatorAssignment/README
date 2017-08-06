@@ -1,0 +1,7 @@
+ Write a program which will hold Car class 20-30 objects in
+   a collection of right type and we have to display those cars
+   on top which are having higher price.
+
+   Plus user should be able to show cars sorted by ids.
+   Plus user should be able to show cars sorted by brand.
+   Plus user should not be able to save duplicate cars.
