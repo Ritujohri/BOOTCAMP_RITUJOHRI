@@ -1,0 +1,11 @@
+1) Write a program which will read a file which contains
+   a) movie name
+   b) actors
+   c) directors
+   d) duration
+
+and display on console properly.
+
+1) Write a program which is holding string data(car names) in a
+   hashset. This program will save data permanently in a file
+   named as cars.txt before exiting.
